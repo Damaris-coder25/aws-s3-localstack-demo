@@ -28,7 +28,7 @@ Scriptul `demo.js` execută, în ordine, următoarele operațiuni:
 ### 1. Clonează repository-ul
 
 ```
-git clone https://github.com/USERNAME/aws-s3-localstack-demo.git
+git clone https://github.com/Damaris-coder25/aws-s3-localstack-demo.git
 cd aws-s3-localstack-demo
 ```
 
